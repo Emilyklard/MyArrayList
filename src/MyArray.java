@@ -16,7 +16,5 @@ public interface MyArray<T> extends Iterable<T> {
     void update(int index, T t);
 
     void makeArrayGreatAgain();
-
-
 }
 
